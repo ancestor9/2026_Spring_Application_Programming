@@ -24,7 +24,7 @@
 | -- | ------------------ | ------------------------------- | ------------------------ | ----------- |
 | 1  | 네트워크 & 웹 구조 이해     | Client–Server, HTTP, REST, JSON | Postman API 호출, 패킷 흐름 분석 | API 호출 리포트  |
 | 2  | FastAPI 기초         | 라우팅, Path/Query, Pydantic       | FastAPI 기본 CRUD 구현       | 기본 API 서버   |
-| 3  | FastAPI 심화         | REST 설계, 예외처리, Swagger          | 구조화된 API 설계              | RESTful API |
+| 3  | FastAPI 심화         | uv 가상환경, REST 설계, 예외처리, Swagger          | 구조화된 API 설계              | RESTful API |
 | 4  | FastAPI + DB 연동    | ORM, SQLAlchemy                 | MariaDB 연동 CRUD          | DB 연결 API   |
 | 5  | AI 기반 바이브코딩 기초     | Cline 구조, 프롬프트 전략               | FastAPI 자동 생성            | AI 생성 서버    |
 | 6  | 바이브코딩 심화           | 리팩토링, 코드 이해                     | 기존 코드 개선                 | 개선된 API     |
