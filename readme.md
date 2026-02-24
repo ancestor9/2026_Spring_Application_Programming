@@ -2,8 +2,7 @@
 
 ### 1. 학습 목표
 
----> 단순한 “앱 개발”이 아니라 AI-연계 API 중심 풀스택 실전 설계 과목
-#### Application Builder
+--> 단순한 “앱 개발”이 아니라 AI-연계 API 중심 풀스택 실전역량을 보유하여 Application Builder로 !
 
 1️⃣ 네트워크 + REST API 이해 및 실습
 
