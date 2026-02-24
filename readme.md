@@ -2,7 +2,7 @@
 
 ### 1. 학습 목표
 
-1️⃣ 네트워크 + API 기초 체력
+1️⃣ 네트워크 + REST API 이해 및 실습
 
 2️⃣ FastAPI 기반 백엔드 설계 능력 확보
 
@@ -36,4 +36,4 @@
 | 12 | 데이터베이스 설계          | ERD, 정규화                        | 팀 프로젝트 DB 설계             | ERD 다이어그램   |
 | 13 | Node.js 기초         | Express, 서버 구조                  | Node 서버 구현               | Node API 서버 |
 | 14 | Node.js + DB 통합    | REST 비교, CORS                   | Node + MariaDB 연동        | Node DB 서버  |
-| 15 | Full Stack 통합 & 발표 | 아키텍처 분석                         | 전체 연결 프로젝트 시연            | 최종 웹앱       |
+| 15 | Full Stack 통합 & 발표 | 아키텍처 분석 (LLM을 백엔드로 UI 앱서비스 구현)                        | 전체 연결 프로젝트 시연            | 최종 웹앱       |
