@@ -4,13 +4,9 @@
 
 --> 단순한 “앱 개발”이 아니라 AI-연계 API 중심 풀스택 실전역량을 보유하여 Application Builder로 !
 
-1️⃣ 네트워크 + REST API 이해 및 실습
+1️⃣ 네트워크 + REST API 이해 및 실습, FastAPI 기반 백엔드 설계 능력 확보
 
-2️⃣ FastAPI 기반 백엔드 설계 능력 확보
-
-3️⃣ AI 기반 바이브코딩 + Figma–DB–Node 연계 프로젝트
-
-📘 과목명 별명 : AI 기반 API 앱프로그래밍 (Vibe Coding & FastAPI)
+2️⃣ AI 기반 API 앱 바이브코딩 + Figma–DB–Node 연계 프로젝트
 
 ### 2. 교과목 목표
 
