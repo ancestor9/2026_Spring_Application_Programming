@@ -3,7 +3,9 @@
 ### 1. 학습 목표
 
 1️⃣ 네트워크 + API 기초 체력
+
 2️⃣ FastAPI 기반 백엔드 설계 능력 확보
+
 3️⃣ AI 기반 바이브코딩 + Figma–DB–Node 연계 프로젝트
 
 📘 과목명 별명 : AI 기반 API 앱프로그래밍 (Vibe Coding & FastAPI)
