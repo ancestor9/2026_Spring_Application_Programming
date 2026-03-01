@@ -20,7 +20,7 @@
 ### 반드시 개인 github를 만들어 과제를 제출하라
 
 ### 3. 교과목 일정
-[데이터플랫폼의 진화](https://medium.com/@mariusz_kujawski/from-database-to-ai-the-evolution-of-data-platforms-59f487e235df)
+[데이터플랫폼의 진화]([https://medium.com/@mariusz_kujawski/from-database-to-ai-the-evolution-of-data-platforms-59f487e235df](https://github.com/ancestor9/2026_Spring_Application_Programming))
 
 | 주차 | 핵심 주제              | 이론 핵심                           | 실습 내용                    | 산출물(과제)         |
 | -- | ------------------ | ------------------------------- | ------------------------ | ----------- |
