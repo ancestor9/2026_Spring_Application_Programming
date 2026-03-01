@@ -22,7 +22,7 @@
 | 주차 | 핵심 주제              | 이론 핵심                           | 실습 내용                    | 산출물         |
 | -- | ------------------ | ------------------------------- | ------------------------ | ----------- |
 | 1 | ETL     | URL에서 데이터를 추출-변환-로딩 | 파이썬 함수로 ETL 만들기 | 로켓발사 이미지 ETL   |
-| 2  | 네트워크 & 웹 구조 이해 I    | Client–Server, HTTP, REST, JSON | Postman API 호출, 패킷 흐름 분석 | API 호출 리포트  |
+| 2  | 네트워크 & 웹 구조 이해 I    | Vscode 설치, 가상환경 구현 | Postman API 호출, 패킷 흐름 분석 | API 호출 리포트  |
 | 3  | 네트워크 & 웹 구조 이해 II    | Client–Server, HTTP, REST, JSON | Postman API 호출, 패킷 흐름 분석 | API 호출 리포트  |
 | 4  | Front End 개발  | Streamlit & gradio : UI 설계 구현 | python 기반 UI tools | UI 개발  |
 | 5  | Back End 개발         | FastAPI 기초, uv 가상환경, 라우팅, Path/Query, Pydantic       | FastAPI 기본 CRUD 구현       | 기본 API 서버   |
@@ -36,3 +36,6 @@
 | 13  | Langchain 개발 II   | Gemini API로 Langchain 개발 2               | Gemini API Key완 연동하여 비지니스 로직을 만들고 앱 서비스 개발         | LLM + FastAPI + Streamlit/gradio + ngrok  |
 | 14 | AI Vibe Coding       | UX Flow, 컴포넌트 설계, Stitch, Figma MCP-> Figma UI 설계, Node.js 기초     | 서비스 화면 설계                | Figma 파일    |
 | 15 | Full Stack 통합 & 발표 | 아키텍처 분석 (게시판, to do list 및 LLM 등 백엔드로 UI 앱서비스 구현)                        | 전체 연결 프로젝트 시연            | 최종 웹앱       |
+
+
+[UV : Super Fast and Easy to use Package Manager for Python](https://www.youtube.com/watch?v=1kZ-touiEQ8&t=64s)
