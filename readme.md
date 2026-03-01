@@ -33,6 +33,6 @@
 | 10  | LLM adk 실습    | google ADK 실습                 | Gemini API Key완 연동하여 비지니스 로직을 만들고 앱 서비스 개발         | LLM + FastAPI + Streamlit/gradio + ngrok  |
 | 11  | LLM RAG    | google ADK 로 RAG 앱 서비스 구현                 | Gemini API Key완 연동하여 비지니스 로직을 만들고 앱 서비스 개발         | LLM + FastAPI + Streamlit/gradio + ngrok  |
 | 12  | Langchain 개발 I  | Gemini API로 Langchain 개발 1               | Gemini API Key완 연동하여 비지니스 로직을 만들고 앱 서비스 개발         | LLM + FastAPI + Streamlit/gradio + ngrok  |
-| 13  | Langchain 개발 II   | Gemini API로 Langchain 개발 1               | Gemini API Key완 연동하여 비지니스 로직을 만들고 앱 서비스 개발         | LLM + FastAPI + Streamlit/gradio + ngrok  |
+| 13  | Langchain 개발 II   | Gemini API로 Langchain 개발 2               | Gemini API Key완 연동하여 비지니스 로직을 만들고 앱 서비스 개발         | LLM + FastAPI + Streamlit/gradio + ngrok  |
 | 14 | AI Vibe Coding       | UX Flow, 컴포넌트 설계, Stitch, Figma MCP-> Figma UI 설계, Node.js 기초     | 서비스 화면 설계                | Figma 파일    |
 | 15 | Full Stack 통합 & 발표 | 아키텍처 분석 (게시판, to do list 및 LLM 등 백엔드로 UI 앱서비스 구현)                        | 전체 연결 프로젝트 시연            | 최종 웹앱       |
