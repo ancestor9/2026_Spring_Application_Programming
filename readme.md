@@ -33,7 +33,7 @@
 | 2  | 네트워크 & 웹 구조 이해 I    | Vscode 설치, 가상환경 구현, Client–Server, HTTP, REST, JSON |REST API CRUD(get, post, put. delete) | REST API 호출 실습(0320_03_REST_API.ipynb)  |
 | 3  | 네트워크 & 웹 구조 이해 II    | requests 모듈, json 형태 데이 | 웹에서 데이터 불러오기, gemini API 로 UI 서비스하기 | [Task_02](https://github.com/ancestor9/2026_Spring_Application_Programming/blob/main/%7BTask_02%7D%20Class%20notes_20260327_App%20Dev.pdf) |
 | 4  | Web crawliing 1  | Beautifulsoup | requests, bs4 | 웹에서 데이터 수집하여 데이테 셋 구성  |
-| 5  | Web crawliing 2  | selenium| requests, bs4, sellenium | 웹에서 데이터 수집하여 데이테 셋 --> 데이터베이스 구축(sqlite3)  |
+| 5  | Web crawliing 2  | selenium| requests, bs4, selenium | 웹에서 데이터 수집하여 데이테 셋 --> 데이터베이스 구축(sqlite3)  |
 | 6  | FastAPI 심화         | REST 설계, 예외처리, Swagger          | 구조화된 API 설계              | RESTful API |
 | 7  | Fast API 실습   | Iris 데이터 머신러닝 모델 앱서비스 구현                 | 머신러닝, UI        | Model-Controller-View 아키텍쳐   |
 | 8  | FastAPI + DB 연동    | ORM, SQLAlchemy                 | MariaDB 연동 CRUD, AdventureWorks-Sales 데이터를 다운받아 sqlite3에 저장한 후 앱 서비스          | DB 연결 API   |
